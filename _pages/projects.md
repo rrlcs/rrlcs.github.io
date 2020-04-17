@@ -5,12 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Currently I am working on following two course projects:
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Synthesizing programs from SMT specification by giving it to Machine Learning model
+2. Learning in Sparse Reward Environment (Reinforcement Learning).
