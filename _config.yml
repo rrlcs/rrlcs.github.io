@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ravi Raja"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "M Tech Research student at Indian Institute of Science"
