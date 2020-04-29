@@ -14,3 +14,8 @@ About Me
 
 
 Hey! I am a Research student at the Indian Institute of Science, Bangalore. My research interest are in the area of Program Synthesis and Machine Learning. I am being advised jointly by [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/) and [Prof. Deepak D'Souza](https://www.csa.iisc.ac.in/~deepakd/).
+
+Labs
+=======
+
+[Machine Learning Lab](https://mllabiisc.github.io/) and Programming Languages Lab
