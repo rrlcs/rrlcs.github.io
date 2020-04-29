@@ -73,7 +73,7 @@ es: &DEFAULT_ES
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
-  email_label                : "Email"
+  email_label                : "Email : raviraja@iisc.ac.in"
   recent_posts               : "Entradas recientes"
   undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
   comment_form_info          :
