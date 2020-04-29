@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ravi Raja"
   avatar           : "raviraja.jpg"
-  bio              : "M Tech Research student at Indian Institute of Science"
+  bio              : "M Tech Research student at Indian Institute of Science (Machine Learning/Programming Languages Lab)"
   location         : "Bangalore, India"
-  employer         : "Machine Learning Lab and Programming Languages Lab"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "raviraja@iisc.ac.in"
