@@ -18,4 +18,4 @@ Hey! I am a Research student at the Indian Institute of Science, Bangalore. My r
 Labs
 =======
 
-[Machine Learning Lab](https://mllabiisc.github.io/) and Programming Languages Lab
+[Machine Learning Lab](https://mllabiisc.github.io/) and Programming Languages Lab (Department of Computer Science and Automation)
