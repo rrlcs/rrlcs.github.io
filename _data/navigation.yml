@@ -2,7 +2,7 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "CV"
+  - title:
     url: /cv/
 
  # - title: "Talks"
