@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="rrlcs.github.io/files/Resume_12_05_21.pdf">CV</a>
+<!-- <a href="rrlcs.github.io/files/Resume_12_05_21.pdf">CV</a> -->
