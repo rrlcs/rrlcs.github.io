@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="rrlcs.github.io/files/Resume_12_05_21.pdf">CV</a>
+<object data="https://github.com/rrlcs/rrlcs.github.io/blob/master/files/Resume_12_05_21.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/rrlcs/rrlcs.github.io/blob/master/files/Resume_12_05_21.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/rrlcs/rrlcs.github.io/blob/master/files/Resume_12_05_21.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<!-- <a href="rrlcs.github.io/files/Resume_12_05_21.pdf">CV</a> -->
