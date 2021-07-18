@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+### Boolean Function Synthesis using Gated Continuous Logic Network
+I am currently working on Boolean Function Synthesis with [Stanly Samuel](http://stanlysamuel.com/) under the advisory of Prof. Aditya Kanade, Prof. Chiranjib Bhattacharyya and Prof. Deepak D'Souza.
+
 <!-- ## TOPICS IN SOFTWARE ENGINEERING -->
 ### Generating Grammar Rules for Syntax-Guided Synthesis using Deep Neural Network:
 This project employed Deep Learning model for restricting the solution space by predicting relevant Grammar rules. Given a Specication in the form of logical constraints for the SyGuS problem, we trained a Neural
