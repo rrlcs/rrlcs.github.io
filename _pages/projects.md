@@ -11,8 +11,7 @@ I am currently working on Boolean Function Synthesis with [Stanly Samuel](http:/
 <!-- ## TOPICS IN SOFTWARE ENGINEERING -->
 ### Generating Grammar Rules for Syntax-Guided Synthesis using Deep Neural Network:
 This project employed Deep Learning model for restricting the solution space by predicting relevant Grammar rules. Given a Specication in the form of logical constraints for the SyGuS problem, we trained a Neural
-Network (GGNN2FF) to predict the Grammar Rules required to get to the solution program. We were able to
-achieve 91% accuracy. [GitHub](https://github.com/rrlcs/tse-mini-project2)
+Network (GGNN2FF) to predict the Grammar Rules required to get to the solution program. [GitHub](https://github.com/rrlcs/tse-mini-project2)
 
 
 ### Translating Logical Specifications into Programs using Machine Learning techniques:
