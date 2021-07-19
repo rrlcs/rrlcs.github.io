@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Linear Algebra and Probability"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "CSA, Indian Institute of Science"
+date: 2020-10-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as Teaching Assistant for the course of Linear Algebra and Probability at CSA, IISc.
 
 Heading 1
 ======
