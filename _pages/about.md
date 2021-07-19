@@ -21,3 +21,8 @@ Labs
 =======
 
 [Machine Learning Lab](https://mllabiisc.github.io/) and Programming Languages Lab (Department of Computer Science and Automation)
+
+Courses Taken
+=======
+
+Topics in Software Engineering, Machine Learning, Program Synthesis meets Machine Learning, Linear Algebra and Probability, Computational Methods and Optimization, Design and Analysis of Algorithms
