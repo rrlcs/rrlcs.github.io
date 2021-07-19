@@ -10,11 +10,11 @@ location: "City, Country"
 
 I worked as Teaching Assistant for the course of Linear Algebra and Probability at CSA, IISc.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
